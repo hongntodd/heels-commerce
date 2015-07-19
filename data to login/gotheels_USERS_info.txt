@@ -1,0 +1,26 @@
+Create database "gotheels"
+import gotheels.sql
+	user to register and login inside page:
+
+		admin@yahoo.com
+		adminpass
+		
+		query@yahoo.com	
+		querypass
+
+QUERY USER
+		$user = 'gotheelsquery';
+		$pwd = 'gotheels';
+ADMIN user
+		$user = 'gotheelsadmin';
+		$pwd = 'gotheels';
+	
+
+online: htoddcom_gotheels
+htoddcom_adheels
+htoddcom_quheels
+
+change connection for ajax_refresh
+
+$PayPalReturnURL 		= 'http://localhost/gotheels/paypal/process.php'; //Point to process.php page
+$PayPalCancelURL 		= 'http://localhost/gotheels/paypal/cancel_url.html'; //Cancel URL if user clicks cancel

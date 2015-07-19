@@ -1,0 +1,53 @@
+ jjhomeus-buyer@yahoo.com
+Password:45689224
+Phone number:4086900517
+Account type:Personal
+Status:Verified
+Country:US
+Bank account
+Account number:8534458
+Routing number:325272063
+Credit card
+Credit card number:4032036767434341
+Credit card type:Visa
+Expiration date:2/2020
+PayPal
+Balance:9999.00 USD
+
+
+
+ Email ID:
+jjhomeus-facilitator@yahoo.com
+Password:
+Change password
+Phone number:
+4089171463
+Account type:
+Business  Upgrade to Pro
+Status:
+Verified
+Country:
+US
+Bank account
+Account number:
+8534458
+Routing number:
+325272063
+Credit card
+Credit card number:
+4032036767434341
+Credit card type:
+Visa
+Expiration date:
+2/2020
+PayPal
+Balance:
+.00 USD
+
+ jjhomeus-facilitator_api1.yahoo.com
+Password:
+Q9B9RWFCWN4X22M9
+Signature:
+An5ns1Kso7MWUdW4ErQKJJJ4qi4-AOb4s4ZhnRsfj4r8SraGD.TY-i-k
+
+

@@ -1,0 +1,48 @@
+.magnifyarea { /* CSS to add shadow to magnified image. Optional */
+	
+	filter: progid:DXImageTransform.Microsoft.dropShadow(color=#818181, offX=5, offY=5, positive=true);
+	background: white;
+	margin-left: 83px;
+	margin-top: -31px;
+	border: 1px solid #F1F1F1 !important;
+}
+
+.targetarea { /* CSS for container div(s) of the zoomable image */
+	width: 345px; /* wide or wider than the widest zoomable image */
+	height: 220px; /* high or higher than the tallest zoomable image */
+	margin-top:15px;
+	border: 1px solid #F1F1F1;
+	padding-top: 30px;
+	margin-right: 200px;
+}
+
+#two { /* Added CSS for second target div of zoomable images */
+	height: 800px; /* high or higher than the tallest zoomable image */
+	margin-left: 250px;
+}
+
+.targetarea img { /* zoomable image */
+	margin: auto; /* for horizontal centering */
+	display: block; /* also for horizontal centering */
+	position: relative; /* along with on the fly calculations in script, for vertical centering */
+	border-width: 0;
+	
+}
+
+.thumbs { /* divs holding the trigger links - styles optional, used here to center their links below their respective zoomable image */
+	padding-top: 25px;
+	width: 345px;
+	text-align: center;
+}
+
+.thumbs a { /* trigger links on the thumbnail images */
+	text-decoration: none; /* avoid underlines of images, text or spaces in these links */
+}
+
+.thumbs img { /* trigger images - the thumbnails used to load new zoomable images into the targetarea */
+	border: 1px solid #F1F1F1; /* avoid default borders in some browsers */
+	width: 60px;
+}
+
+
+
